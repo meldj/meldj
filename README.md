@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋
+###### soy Manuel Rodríguez, desarrollador de software y mi pasión por la música viene del sueño de ser DJ.
+
+- 🔭 Actualmente soy desarrollador independiente.
+- 👯 Estoy disponible para colaborar en tus proyectos.
 
 <!--
 **meldj/meldj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
