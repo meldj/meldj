@@ -4,7 +4,7 @@
 ###### 🔭 Actualmente soy desarrollador independiente.
 ###### 👯 Estoy disponible para colaborar en tus proyectos.
 
-### Tecnologías que suelo usar con mayor frecuencia
+###### Tecnologías que suelo usar con mayor frecuencia
 
 ![skills](https://github.com/meldj/meldj/blob/master/img/skills.png "Skills")
 
