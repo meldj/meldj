@@ -1,8 +1,8 @@
 ### Hola 👋
 ###### soy Manuel Rodríguez, desarrollador de software y mi pasión por la música viene del sueño de ser DJ.
 
-- 🔭 Actualmente soy desarrollador independiente.
-- 👯 Estoy disponible para colaborar en tus proyectos.
+###### 🔭 Actualmente soy desarrollador independiente.
+###### 👯 Estoy disponible para colaborar en tus proyectos.
 
 ### Tecnologías que suelo usar con mayor frecuencia
 
