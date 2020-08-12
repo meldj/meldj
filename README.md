@@ -6,7 +6,7 @@
 
 ### Tecnologías que suelo usar con mayor frecuencia
 
-[skills](https://github.com/meldj/meldj/blob/master/img/skills.png)
+![skills](https://github.com/meldj/meldj/blob/master/img/skills.png "Skills")
 
 <!--
 **meldj/meldj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
